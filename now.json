@@ -1,0 +1,6 @@
+{
+  "alias": "tweedlovemegademo.com"
+, "env": {
+    "NODE_ENV": "production"
+  }
+}
