@@ -1,6 +1,6 @@
 {
-  "CLIENT": "https://demo.recipher.co.uk"
-, "HOST": "https://api.recipher.co.uk"
+  "CLIENT": "https://tweedlovemegademo.com"
+, "HOST": "https://core-service-production.herokuapp.com"
 , "DEFAULT_PAGE": "/bookings"
 , "HTTP": {
     "AUTHENTICATE": "system/system"
@@ -24,7 +24,7 @@
   , "FORMAT": "tiny"
   }
 , "PAPERTRAIL": {
-    "HOST": "logs4.papertrailapp.com"
-  , "PORT": 50028
+    "HOST": "logs5.papertrailapp.com"
+  , "PORT": 22475
   }
 }
