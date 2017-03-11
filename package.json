@@ -6,8 +6,7 @@
     "start": "node serve",
     "test": "mocha --compilers js:babel/register --recursive",
     "test:watch": "npm test --watch",
-    "dist": "./node_modules/.bin/gulp dist",
-    "build": "./node_modules/.bin/gulp dist"
+    "dist": "./node_modules/.bin/gulp dist"
   },
   "engines": {
     "node": "4.x.x",
