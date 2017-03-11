@@ -8,6 +8,7 @@
     "test:watch": "npm test --watch",
     "dist": "./node_modules/.bin/gulp dist"
   },
+  "alias": "tweedlovemegademo.com",
   "engines": {
     "node": "4.x.x",
     "npm": "3.x.x"
