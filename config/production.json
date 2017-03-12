@@ -1,7 +1,7 @@
 {
   "CLIENT": "https://tweedlovemegademo.com"
 , "HOST": "https://core-service-production.herokuapp.com"
-, "DEFAULT_PAGE": "/bookings"
+, "DEFAULT_PAGE": "/brands"
 , "HTTP": {
     "AUTHENTICATE": "system/system"
   , "SECURE": true

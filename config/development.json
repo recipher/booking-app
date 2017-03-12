@@ -1,7 +1,7 @@
 {
   "CLIENT": "http://localhost:4200"
 , "HOST": "http://localhost:3000"
-, "DEFAULT_PAGE": "/bookings"
+, "DEFAULT_PAGE": "/brands"
 , "HTTP": {
     "AUTHENTICATE": "system/system"
   , "SECURE": false
