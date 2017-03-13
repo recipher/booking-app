@@ -56,6 +56,10 @@ ol > li {
   border-left: 1px solid #ccc;
 }
 
+ol > li > p {
+  padding-top: 0;
+}
+
 ol > li:before {
   position: absolute;
   top: 2px;

@@ -6,6 +6,9 @@
     "AUTHENTICATE": "system/system"
   , "SECURE": true
   }
+, "STRIPE": {
+    "KEY": "pk_test_kcL6y7tDKPTub7BJmVnijkzK"
+  }
 , "FACEBOOK": {
     "ID": "1080273218682225"
   , "SCOPE": "email,user_likes,user_friends"
