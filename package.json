@@ -72,6 +72,7 @@
     "mocha": "^2.2.5",
     "mocha-jsdom": "^1.0.0",
     "moment": "^2.13.0",
+    "moment-timezone": "^0.5.11",
     "normalize.css": "^4.0.0",
     "normalizr": "^1.4.0",
     "qs": "^5.0.0",
