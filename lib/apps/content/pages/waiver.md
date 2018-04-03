@@ -6,7 +6,7 @@ Terms and Conditions - I have read and understand the terms and conditions of pa
 ### RULES, TERMS & CONDITIONS AND EVENT INFORMATION
 
 TweedLove On The Green – Bike Demos
-9-11 June 2017
+8-10 June 2018
 Tweed Valley, Scottish Borders
 
 
