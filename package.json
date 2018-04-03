@@ -7,7 +7,7 @@
     "test": "mocha --compilers js:babel/register --recursive",
     "test:watch": "npm test --watch",
     "dist": "./node_modules/.bin/gulp dist",
-    "deploy": "now dist"
+    "deploy": "now"
   },
   "alias": "tweedlovemegademo.com",
   "engines": {
