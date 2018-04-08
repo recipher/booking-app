@@ -165,31 +165,29 @@ Demonstration bicycles are the responsibility of the rider and loss, damage or m
 
 ### Time Slots for demos are as follows:
 
-**Friday 9th June**
+**Friday 8th June**
 
-11am-12:30pm
+12pm-2pm
 
-1pm-2:30pm
+2:30pm-4:30pm
 
-3pm-4:30pm
+5pm-7pm
 
-**Saturday 10th June**
+**Saturday 9th June**
 
-10am-11:30am
+9:30am-11:30am
 
-12pm-1:30pm
+12pm-2pm
 
-2pm-3:30pm
+2:30pm-4:30pm
 
-4pm-5:30pm
+**Sunday 10th June**
 
-**Sunday 11th June**
+9:30am-11:30am
 
-10am-11:30am
+12pm-2pm
 
-12pm-1:30pm
-
-2pm-3:30pm 
+2:30pm-4:30pm  
 
 
 
